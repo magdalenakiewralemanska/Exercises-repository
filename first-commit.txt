@@ -1,2 +1,2 @@
 Hello, thisi is my firts commit.
-This is very difficult exercise.
+This is very difficult exercise :) ;).
